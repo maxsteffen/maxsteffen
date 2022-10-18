@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxsteffen
-- 👀 I’m interested in Data Science
+- 👀 Studying Data Science at Marquette University
 - 🌱 I’m currently taking classes in software devlopment and data science
-- 📫 How to reach me: mxstffn@gmail.com
+- 📫 How to reach me: mxstffn@gmail.com or maxwell.steffen@marquette.edu
 
 <!---
 maxsteffen/maxsteffen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
