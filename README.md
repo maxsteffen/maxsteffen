@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxsteffen
-- 👀 Studying Data Science at Marquette University
+- 👀 Studying Data Science and Computer Science at Marquette University
 - 🌱 I’m currently taking classes in software devlopment and data science
 - 📫 How to reach me: mxstffn@gmail.com or maxwell.steffen@marquette.edu
 
